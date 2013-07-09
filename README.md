@@ -1,0 +1,4 @@
+statics
+=======
+
+Static Files
